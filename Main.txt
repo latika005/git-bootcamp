@@ -1,1 +1,1 @@
-Hi ! My name is Latika Gurudu .
+Hi ! My name is Latika . This is my first time learning Git and Github. 
